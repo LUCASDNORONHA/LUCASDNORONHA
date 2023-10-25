@@ -20,6 +20,5 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 </a>
 
 <a href="https://www.beecrowd.com.br/judge/pt/profile/853485">
-  <img src="https://user-images.githubusercontent.com/80331468/270190538-7b3fa433-c299-4909-9559-f5276c2edacb.png
-" alt="GitHub" width="32" height="32">
+  <img src="https://user-images.githubusercontent.com/80331468/270190538-7b3fa433-c299-4909-9559-f5276c2edacb.png" alt="GitHub" width="32" height="32">
 </a>
