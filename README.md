@@ -33,6 +33,6 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
   </a>
 
 
-<a href="https://skillicons.dev">
+<a href="https://x.com/DiasLucas75490?t=hYH4BtOwrZ15pAyUJ_OwGA&s=09">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Beecrowd" width="32" height="32" />
   </a>
