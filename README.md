@@ -15,8 +15,8 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASDNORONHA&layout=compact&langs_count=16&theme=dark"/>
 
 </div>
-
-[![GitHub](https://cdn-icons-png.flaticon.com/512/5926/5926802.png)](https://www.kaggle.com/lucasdiasnoronha){:width="32px"}
-
+<a href="https://github.com/seu-usuario">
+  <img src="https://cdn-icons-png.flaticon.com/512/5926/5926802.png" alt="GitHub" width="32" height="32">
+</a>
 
 
