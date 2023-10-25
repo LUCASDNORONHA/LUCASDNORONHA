@@ -16,7 +16,7 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 
 </div>
 <a href="https://www.kaggle.com/lucasdiasnoronha">
-  <img src="https://cdn-icons-png.flaticon.com/512/5926/5926802.png" alt="GitHub" width="32" height="32">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="GitHub" width="32" height="32">
 </a>
 
 <a href="https://www.beecrowd.com.br/judge/pt/profile/853485">
