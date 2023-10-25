@@ -13,7 +13,7 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCASDNORONHA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASDNORONHA&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASDNORONHA&layout=compact&langs_count=16&theme=tokyonight"/>
 
 </div>
 
