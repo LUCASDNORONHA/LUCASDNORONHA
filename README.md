@@ -31,3 +31,8 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
