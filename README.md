@@ -1,4 +1,4 @@
-by### Hi there 🖖
+### Hi there 🖖
 
 - I'm currently studying Artificial Intelligence.
 - I'm looking to collaborate on projects related to AI technology in order to learn from real-life application experiences.
@@ -15,5 +15,11 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASDNORONHA&layout=compact&langs_count=16&theme=dark"/>
 
 </div>
+
+[![GitHub]([https://image-url-do-seu-icone-github.png](https://cdn-icons-png.flaticon.com/512/5926/5926802.png))]([https://github.com/seu-usuario](https://www.kaggle.com/lucasdiasnoronha))
+[
+
+
+
 
 
