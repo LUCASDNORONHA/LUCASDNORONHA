@@ -16,10 +16,7 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 
 </div>
 
-[![GitHub](https://cdn-icons-png.flaticon.com/512/5926/5926802.png)](https://www.kaggle.com/lucasdiasnoronha)
-
-
-
+[![GitHub](https://cdn-icons-png.flaticon.com/512/5926/5926802.png)](https://www.kaggle.com/lucasdiasnoronha){:width="32px"}
 
 
 
