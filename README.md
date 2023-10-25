@@ -28,7 +28,7 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
   <img src="https://user-images.githubusercontent.com/80331468/270190538-7b3fa433-c299-4909-9559-f5276c2edacb.png" alt="Beecrowd" width="32" height="32">
 </a>
 
-<a href="https://skillicons.dev">
+<a href="https://www.linkedin.com/in/lucasdiasnoronha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Beecrowd" width="32" height="32" />
   </a>
 
