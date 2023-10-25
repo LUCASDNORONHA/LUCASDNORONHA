@@ -1,4 +1,4 @@
-### Hi there 🖖
+no### Hi there 🖖
 
 - I'm currently studying Artificial Intelligence.
 - I'm looking to collaborate on projects related to AI technology in order to learn from real-life application experiences.
@@ -19,4 +19,7 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
   <img src="https://cdn-icons-png.flaticon.com/512/5926/5926802.png" alt="GitHub" width="32" height="32">
 </a>
 
-
+<a href="https://www.beecrowd.com.br/judge/pt/profile/853485">
+  <img src="https://user-images.githubusercontent.com/80331468/270190538-7b3fa433-c299-4909-9559-f5276c2edacb.png
+" alt="GitHub" width="32" height="32">
+</a>
