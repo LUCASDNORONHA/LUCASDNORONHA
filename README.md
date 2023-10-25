@@ -27,3 +27,7 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 <a href="https://www.beecrowd.com.br/judge/pt/profile/853485">
   <img src="https://user-images.githubusercontent.com/80331468/270190538-7b3fa433-c299-4909-9559-f5276c2edacb.png" alt="Beecrowd" width="32" height="32">
 </a>
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
