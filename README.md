@@ -5,7 +5,7 @@
 - WhatsApp: (61) 9 9124 - 9921
 - Email: lucasdiasnoronha1@gmail.com
 
-<img src="[https://1drv.ms/i/s!Auww_Bf6PAofhFe3aan4bZAY8wTM?e=Wbbxpl]" alt="MyQRCodeWhatsAppImage" width="50" height="50">
+<img src="https://1drv.ms/i/s!Auww_Bf6PAofhFe3aan4bZAY8wTM?e=Wbbxpl" alt="MyQRCodeWhatsAppImage" width="50" height="50">
 
 
 
