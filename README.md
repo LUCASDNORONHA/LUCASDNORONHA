@@ -13,6 +13,9 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LUCASDNORONHA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+### My Tools:
+[![My Skills](https://skillicons.dev/icons?i=py, vscode, powershell, )](https://skillicons.dev)
+
 
 ### Connect with me:
 <p align="center">
