@@ -14,10 +14,14 @@
 <div style="text-align: right;">
     <a href="https://www.beecrowd.com.br/judge/pt/profile/853485">
         <img src="https://user-images.githubusercontent.com/80331468/270190538-7b3fa433-c299-4909-9559-f5276c2edacb.png" alt="Beecrowd" width="22" height="22">
-    </a>
+    </a
+</div>
+<div style="text-align: right;">
     <a href="https://www.linkedin.com/in/lucasdiasnoronha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="22" height="22">
     </a>
+</div>
+<div style="text-align: right;">
     <a href="https://x.com/DiasLucas75490?t=hYH4BtOwrZ15pAyUJ_OwGA&s=09">
         <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="22" height="22">
     </a>
