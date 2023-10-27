@@ -5,6 +5,10 @@
 - WhatsApp: (61) 9 9124 - 9921
 - Email: lucasdiasnoronha1@gmail.com
 
+<img src="[URL_da_imagem](https://onedrive.live.com/?cid=1F0A3CFA17FC30EC&id=1F0A3CFA17FC30EC%21599&parId=1F0A3CFA17FC30EC%212390&o=OneUp)" alt="MyQRCodeWhatsAppImage" width="50" height="50">
+
+
+
 
 <p align="right">
     <a href="https://www.kaggle.com/lucasdiasnoronha"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" width="22" height="22"></a>
