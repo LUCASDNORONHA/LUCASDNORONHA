@@ -14,7 +14,6 @@ Undergraduate student in Artificial Intelligence. My real focus of study involve
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LUCASDNORONHA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-### Connect with me: 
 <p align="right">
 <a href="https://www.kaggle.com/lucasdiasnoronha">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" width="22" height="22">
