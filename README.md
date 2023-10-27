@@ -11,3 +11,8 @@
     <a href="https://www.linkedin.com/in/lucasdiasnoronha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="22" height="22"></a>
     <a href="https://x.com/DiasLucas75490?t=hYH4BtOwrZ15pAyUJ_OwGA&s=09"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="22" height="22"></a>
 </p>
+
+
+### QRCode WhatsApp:
+
+<img src="https://drive.google.com/file/d/1-1wYGnJzdhAMrDt9Nf01Mu2Ud1S1EyZk/view?usp=drivesdk" alt="MyQrCodeWhatsApp" width="50" height="50">
