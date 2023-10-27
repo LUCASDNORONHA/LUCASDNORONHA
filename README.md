@@ -21,6 +21,7 @@
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="22" height="22">
     </a>
 </div>
+</p>
 <div style="text-align: right;">
     <a href="https://x.com/DiasLucas75490?t=hYH4BtOwrZ15pAyUJ_OwGA&s=09">
         <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="22" height="22">
