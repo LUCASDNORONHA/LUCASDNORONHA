@@ -5,7 +5,7 @@
 - WhatsApp: (61) 9 9124 - 9921
 - Email: lucasdiasnoronha1@gmail.com
 
-
+<p align="right">
 <div style="text-align: right;">
     <a href="https://www.kaggle.com/lucasdiasnoronha">
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" width="22" height="22">
