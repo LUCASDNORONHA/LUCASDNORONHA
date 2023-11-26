@@ -2,8 +2,6 @@
 - I'm currently studying Artificial Intelligence.
 - I'm looking to collaborate on projects related to AI technology in order to learn from real-life application experiences.
 - Python, Machine Learning, Computer Vision, Natural Language Processing and Deep Learning. 
-- WhatsApp: (61) 9 9124 - 9921
-- Email: lucasdiasnoronha1@gmail.com
 
 <p align="right">
     <a href="http://lattes.cnpq.br/7208787089621843"><img src="https://www.observatoriodeseguranca.org/wp-content/uploads/2019/03/cnpq120-1.png" alt="CNPq" width="22" height="22"></a>
