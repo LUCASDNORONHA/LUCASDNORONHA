@@ -39,7 +39,3 @@
 
 
 
-https://starchart.cc/{LUCASDNORONHA}/{repo}.svg
-
-
-
