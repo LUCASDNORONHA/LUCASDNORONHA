@@ -37,4 +37,4 @@
 
 
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=LUCASDNORONHA)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=LUCASDNORONHA)
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=LUCASDNORONHA/)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=LUCASDNORONHA/)
