@@ -39,7 +39,7 @@
 
 
 
-![Starchart](https://starchart.cc/{LUCASDNORONHA}/{repo}.svg)
+https://starchart.cc/{LUCASDNORONHA}/{repo}.svg
 
 
 
