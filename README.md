@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=LUCASDNORONHA&color=blue)
 ### About me:
 - I'm currently studying Artificial Intelligence.
 - I'm looking to collaborate on projects related to AI technology in order to learn from real-life application experiences.
