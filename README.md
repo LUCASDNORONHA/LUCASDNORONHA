@@ -1,4 +1,4 @@
-![Banner](https://pbs.twimg.com/profile_banners/1715853410237382656/1707617375/1500x500)
+![Banner](https://media.licdn.com/dms/image/D4D16AQFC5ZLq_T1z4Q/profile-displaybackgroundimage-shrink_350_1400/0/1698299781403?e=1726099200&v=beta&t=zmjaZoDzDlaMbDiZHgkixpybGArsXCtIFxw7QhjccRg)
 
 <p align="right">
     <a href="http://lattes.cnpq.br/7208787089621843"><img src="https://www.observatoriodeseguranca.org/wp-content/uploads/2019/03/cnpq120-1.png" alt="CNPq" width="22" height="22"></a>
