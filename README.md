@@ -14,4 +14,4 @@
 
 
 ### Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,githubactions,ai,jenkins,py,r,vim,anaconda,bash,linux,opencv,pycharm,pytorch,sklearn,tensorflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,aws,azure,docker,git,githubactions,jenkins,py,r,vim,anaconda,bash,linux,opencv,pycharm,pytorch,sklearn,tensorflow,vscode)](https://skillicons.dev)
