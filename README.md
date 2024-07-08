@@ -9,7 +9,7 @@
 
 ### About me:
 - Atualmente graduando em Inteligência Ariticial.
-- Python, Machine Learning, Computer Vision, Natural Language Processing e Deep Learning. Acesse meu [site](https://lucasdnoronha.github.io) para mais informações.
+- Python, Machine Learning, Computer Vision, Natural Language Processing e Deep Learning. Acesse meu [página](https://lucasdnoronha.github.io) para mais informações e acompanhe meu [blog](https://medium.com/@lucasdiasnoronha1).
 
 
 
