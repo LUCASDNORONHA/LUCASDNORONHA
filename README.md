@@ -1,3 +1,5 @@
+![Banner](https://pbs.twimg.com/profile_banners/1715853410237382656/1707617375/1500x500)
+
 <p align="right">
     <a href="http://lattes.cnpq.br/7208787089621843"><img src="https://www.observatoriodeseguranca.org/wp-content/uploads/2019/03/cnpq120-1.png" alt="CNPq" width="22" height="22"></a>
     <a href="https://www.kaggle.com/lucasdiasnoronha"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" width="22" height="22"></a>
@@ -16,5 +18,3 @@
 
 ### Stack:
 [![My Skills](https://skillicons.dev/icons?i=ai,aws,docker,git,githubactions,jenkins,py,vim,anaconda,bash,linux,opencv,pytorch,sklearn,tensorflow)](https://skillicons.dev)
-
-![Banner](https://pbs.twimg.com/profile_banners/1715853410237382656/1707617375/1500x500)
