@@ -14,4 +14,4 @@
 
 
 ### Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
