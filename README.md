@@ -17,4 +17,4 @@
 ### Stack:
 [![My Skills](https://skillicons.dev/icons?i=ai,aws,docker,git,githubactions,jenkins,py,vim,anaconda,bash,linux,opencv,pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
-![Banner](https://x.com/lucas_dias_n/header_photo)
+![Banner](https://pbs.twimg.com/profile_banners/1715853410237382656/1707617375/1500x500)
