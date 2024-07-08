@@ -1,4 +1,3 @@
-Acesse meu [site](https://lucasdnoronha.github.io) para mais informações.
 <p align="right">
     <a href="http://lattes.cnpq.br/7208787089621843"><img src="https://www.observatoriodeseguranca.org/wp-content/uploads/2019/03/cnpq120-1.png" alt="CNPq" width="22" height="22"></a>
     <a href="https://www.kaggle.com/lucasdiasnoronha"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" width="22" height="22"></a>
@@ -11,6 +10,7 @@ Acesse meu [site](https://lucasdnoronha.github.io) para mais informações.
 ### About me:
 - Atualmente graduando em Inteligência Ariticial.
 - Python, Machine Learning, Computer Vision, Natural Language Processing e Deep Learning. 
+Acesse meu [site](https://lucasdnoronha.github.io) para mais informações.
 
 
 
