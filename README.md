@@ -1,4 +1,4 @@
-<div style="display: flex; gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
     <a href="" title="Discord">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord" width="40">
     </a>
@@ -9,6 +9,7 @@
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="40">
     </a>
 </div>
+
 
 
 
