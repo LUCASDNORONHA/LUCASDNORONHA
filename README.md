@@ -3,7 +3,7 @@
 <!--Sobre mim: Start-->
 - Atualmente graduando em Inteligência Artificial.
 - Experiência com Python, Machine Learning, Computer Vision, Natural Language Processing e Deep Learning.
-- Acesse a minha [página pessoal](https://lucasdnoronha.github.io/site-pessoal/) e acompanhe meu [blog](https://medium.com/@lucasdiasnoronha1) para mais informações.
+- Acesse a minha [página pessoal](https://lucasdnoronha.github.io/site-pessoal/) e acompanhe meu [blog](https://medium.com/@lucasdiasnoronha1).
 <!--Sobre mim: End-->
 
 ### Social
