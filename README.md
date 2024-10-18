@@ -1,5 +1,5 @@
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-    <a href="" title="Social Media"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord" width="40"></a><a href="" title="Medium"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/medium.svg" alt="Medium" width="40"></a><a href="" title="X"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="40"></a>
+    <a href="" title="Social Media"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord" width="40"></a><a href="" title="Medium"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/medium.svg" alt="Medium" width="40"></a><a href="" title="X"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter-x.svg" alt="X" width="40"></a>
 </div>
 
 ### Sobre Mim
