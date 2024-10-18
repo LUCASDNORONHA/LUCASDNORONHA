@@ -1,5 +1,16 @@
-<div style="display: grid; grid-template-columns: repeat(3, 1fr);">
-<a href="" title="Social Media"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/discord.svg" alt="Discord" width="40"></a>   <a href="" title="Medium"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/medium.svg" alt="Medium" width="40"></a>   <a href="" title="X"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/twitter-x.svg" alt="X" width="40"></a>   <a href="" title="X"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/spotify.svg" alt="X" width="40"></a>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); justify-items: center; gap: 20px;">
+    <a href="" title="Social Media">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/discord.svg" alt="Discord" width="40">
+    </a>
+    <a href="" title="Medium">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/medium.svg" alt="Medium" width="40">
+    </a>
+    <a href="" title="X">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/twitter-x.svg" alt="X" width="40">
+    </a>
+    <a href="" title="Spotify">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/spotify.svg" alt="Spotify" width="40">
+    </a>
 </div>
 
 ### Sobre Mim
