@@ -5,8 +5,8 @@
     <a href="" title="Medium">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/medium.svg" alt="Medium">
     </a>
-    <a href="" title="Discord">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord">
+    <a href="" title="X">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X">
     </a>
 </p>
 
