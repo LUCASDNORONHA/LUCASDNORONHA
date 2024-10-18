@@ -1,8 +1,7 @@
 <div style="display: flex; justify-content: center;">
-    <a href="" title="Medium"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/medium.svg" alt="Medium"></a>
-    <a href="" title="Discord"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/discord.svg" alt="Discord"></a>
-    <a href="" title="Spotify"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/spotify.svg" alt="Spotify"></a>
-    <a href="" title="X"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/twitter-x.svg" alt="X"></a>
+    <a href="https://www.linkedin.com/in/lucasdiasnoronha" title="Linkedin"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/linkedin.svg" alt="Linkedin"></a>
+    <a href="https://open.spotify.com/user/31rilxk7zcpbmuvopihjuufn5ziu?si=85759a75869846eb" title="Spotify"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/spotify.svg" alt="Spotify"></a>
+    <a href="https://x.com/home" title="X"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/twitter-x.svg" alt="X"></a>
 </div>
 
 
