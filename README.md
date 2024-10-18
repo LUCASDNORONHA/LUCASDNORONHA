@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center;">
     <a href="" title="Medium">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/medium.svg" alt="Medium">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/medium.svg" alt="Medium">
     </a>
     <a href="" title="Discord">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/discord.svg" alt="Discord">
