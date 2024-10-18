@@ -1,4 +1,5 @@
-## Sobre Mim
+# Estudante de Graduação em Inteligência Artificial
+### Sobre Mim
 <!--Sobre mim: Start-->
 - Atualmente graduando em Inteligência Artificial.
 - Experiência com Python, Machine Learning, Computer Vision, Natural Language Processing e Deep Learning.
@@ -19,4 +20,6 @@
 ### 📕 Post do blog
 <!-- BLOG-POST-LIST:START -->
 - [Inteligência Artificial: Dos Primórdios até a Atualidade](https://medium.com/@lucasdiasnoronha1/inteligência-artificial-dos-primórdios-até-a-atualidade-afb6b7af8451)
+- [Entendendo a Relevância da Álgebra Linear e Estatística para o Aprendizado de Máquina](https://medium.com/@lucasdiasnoronha1/entendendo-a-relevância-da-álgebra-linear-e-estatística-para-o-aprendizado-de-máquina-907df28655ff)
 <!-- BLOG-POST-LIST:START -->
+
