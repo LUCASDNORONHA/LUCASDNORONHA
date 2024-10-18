@@ -10,9 +10,6 @@
     </a>
 </div>
 
-
-
-
 ### Sobre Mim
 - Atualmente graduando em Inteligência Artificial.
 - Experiência com Python, Machine Learning, Computer Vision, Natural Language Processing e Deep Learning.
