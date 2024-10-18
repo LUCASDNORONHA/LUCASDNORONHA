@@ -1,4 +1,4 @@
-# Graduando em Inteligência Artificial
+## Graduando em Inteligência Artificial
 ### Sobre Mim
 <!--Sobre mim: Start-->
 - Atualmente graduando em Inteligência Artificial.
