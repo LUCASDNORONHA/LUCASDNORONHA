@@ -9,17 +9,7 @@
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="40">
     </a>
 </div>
-<div style="display: flex; gap: 10px;">
-    <a href="" title="Discord">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord" width="40">
-    </a>
-    <a href="" title="Medium">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/medium.svg" alt="Medium" width="40">
-    </a>
-    <a href="" title="X">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="40">
-    </a>
-</div>
+
 
 
 ### Sobre Mim
