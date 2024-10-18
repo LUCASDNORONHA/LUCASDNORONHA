@@ -2,11 +2,11 @@
     <a href="" title="Discord">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord">
     </a>
-    <a href="https://www.linkedin.com/in/lucasdiasnoronha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="22" height="22">
+    <a href="" title="Medium">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/medium.svg" alt="Medium">
     </a>
-    <a href="https://twitter.com/lucas_dias_n" title="Twitter">
-        <img src="https://static.designboom.com/wp-content/uploads/2023/07/twitter-logo-change-x-elon-musk-designboom-01.jpg" alt="Twitter" width="22" height="22">
+    <a href="" title="Discord">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord">
     </a>
 </p>
 
