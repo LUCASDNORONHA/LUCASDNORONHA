@@ -1,6 +1,6 @@
 <p align="right">
-    <a href="https://www.youtube.com/channel/UCbTwtucRlQ61lKl_eLW1Z0g" title="YouTube">
-        <img src="https://clipartcraft.com/images/youtube-icon-clipart-video-8.png" alt="YouTube" width="22" height="22">
+    <a href="https://www.youtube.com/channel/UCbTwtucRlQ61lKl_eLW1Z0g" title="Discord">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord,svg" alt="Discord">
     </a>
     <a href="https://www.linkedin.com/in/lucasdiasnoronha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="22" height="22">
