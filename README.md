@@ -1,17 +1,18 @@
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center;">
     <a href="" title="Medium">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/medium.svg" alt="Medium" width="40">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/medium.svg" alt="Medium">
     </a>
     <a href="" title="Discord">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/discord.svg" alt="Discord" width="40">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/discord.svg" alt="Discord">
     </a>
     <a href="" title="Spotify">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/spotify.svg" alt="Spotify" width="40">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/spotify.svg" alt="Spotify">
     </a>
     <a href="" title="X">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/twitter-x.svg" alt="X" width="40">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/twitter-x.svg" alt="X">
     </a>
 </div>
+
 
 ### Sobre Mim
 - Atualmente graduando em Inteligência Artificial.
