@@ -1,6 +1,6 @@
 <p align="right">
     <a href="" title="Discord">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/large/main/colored/discord.svg" alt="Discord">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg" alt="Discord">
     </a>
     <a href="https://www.linkedin.com/in/lucasdiasnoronha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="22" height="22">
