@@ -1,10 +1,14 @@
-## Graduando em Inteligência Artificial
+## Graduando na Área de IA e Ciência de Dado
+
 ### Sobre Mim
 <!--Sobre mim: Start-->
-- Atualmente graduando em Inteligência Artificial.
-- Experiência com Python, Machine Learning, Computer Vision, Natural Language Processing e Deep Learning.
+- Graduando em **Ciência de Dados e Inteligência Artificial** (Bacharelado – Presencial).
+- Cursando **Inteligência Artificial** (Tecnólogo – EaD).
+- Cursando **Análise de Dados** (Tecnólogo – EaD).
+- Experiência com **Python**, **Data Science**, **Machine Learning**, **Computer Vision**, **Natural Language Processing** e **Deep Learning**.
 - Acesse a minha [página pessoal](https://lucasdnoronha.github.io/site-pessoal/) e acompanhe meu [blog](https://medium.com/@lucasdiasnoronha1).
 <!--Sobre mim: End-->
+
 
 ### Social
 <!--Social Media: Start-->
