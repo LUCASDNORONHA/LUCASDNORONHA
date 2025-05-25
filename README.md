@@ -1,28 +1,31 @@
-## Graduando na Área de IA e Ciência de Dado
+---
 
-### Sobre Mim
-<!--Sobre mim: Start-->
-- Graduando em **Ciência de Dados e Inteligência Artificial** (Bacharelado – Presencial).
-- Cursando **Inteligência Artificial** (Tecnólogo – EaD).
-- Cursando **Análise de Dados** (Tecnólogo – EaD).
-- Experiência com **Python**, **Data Science**, **Machine Learning**, **Computer Vision**, **Natural Language Processing** e **Deep Learning**.
-- Acesse a minha [página pessoal](https://lucasdnoronha.github.io/site-pessoal/) e acompanhe meu [blog](https://medium.com/@lucasdiasnoronha1).
-<!--Sobre mim: End-->
+### 🧠 Sobre Mim
+Sou graduando em **Ciência de Dados e Inteligência Artificial** (Bacharelado - Presencial) e também curso duas formações tecnológicas EaD: **Inteligência Artificial** e **Análise de Dados**.  
+Possuo experiência em projetos com foco em **Python**, **Data Science**, **Machine Learning**, **Deep Learning**, **Visão Computacional** e **NLP**.
 
+📎 [Portfólio](https://lucasdnoronha.github.io/site-pessoal/) | ✍️ [Blog no Medium](https://medium.com/@lucasdiasnoronha1)
 
-### Social
-<!--Social Media: Start-->
-<div style="display: flex; justify-content: center;">
-    <a href="https://www.linkedin.com/in/lucasdiasnoronha" title="Linkedin"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="Linkedin"></a>
-    <a href="https://open.spotify.com/user/31rilxk7zcpbmuvopihjuufn5ziu?si=85759a75869846eb" title="Spotify"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg" alt="Spotify"></a>
-<!--Social Media: End-->
-    
-### Stack
-[![Minhas Habilidades](https://skillicons.dev/icons?i=azure,aws,docker,git,githubactions,jenkins,py,vim,anaconda,bash,linux,opencv,pytorch,sklearn,tensorflow)](https://skillicons.dev)
+---
 
-### Blog
-<!-- BLOG-POST-LIST:START -->
-- [Inteligência Artificial: Dos Primórdios até a Atualidade](https://medium.com/@lucasdiasnoronha1/inteligência-artificial-dos-primórdios-até-a-atualidade-afb6b7af8451)
-- [Entendendo a Relevância da Álgebra Linear e Estatística para o Aprendizado de Máquina](https://medium.com/@lucasdiasnoronha1/entendendo-a-relevância-da-álgebra-linear-e-estatística-para-o-aprendizado-de-máquina-907df28655ff)
-<!-- BLOG-POST-LIST:START -->
+### 🛠️ Stack Tecnológica
+[![Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,linux,bash,docker,git,githubactions,jenkins,aws,azure,anaconda,vim)](https://skillicons.dev)
 
+---
+
+### 📚 Últimos Artigos no Blog
+- [Inteligência Artificial: Dos Primórdios até a Atualidade](https://medium.com/@lucasdiasnoronha1/inteligência-artificial-dos-primórdios-até-a-atualidade-afb6b7af8451)  
+- [A Relevância da Álgebra Linear e Estatística no Machine Learning](https://medium.com/@lucasdiasnoronha1/entendendo-a-relevância-da-álgebra-linear-e-estatística-para-o-aprendizado-de-máquina-907df28655ff)
+
+---
+
+### 🌐 Redes Sociais
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucasdiasnoronha" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/31rilxk7zcpbmuvopihjuufn5ziu?si=85759a75869846eb" target="_blank">
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
