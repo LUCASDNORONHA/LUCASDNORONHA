@@ -1,5 +1,3 @@
----
-
 ### 🧠 Sobre Mim
 Sou graduando em **Ciência de Dados e Inteligência Artificial** (Bacharelado - Presencial) e também curso duas formações tecnológicas EaD: **Inteligência Artificial** e **Análise de Dados**.  
 Possuo experiência em projetos com foco em **Python**, **Data Science**, **Machine Learning**, **Deep Learning**, **Visão Computacional** e **NLP**.
