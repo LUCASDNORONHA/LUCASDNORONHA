@@ -2,8 +2,6 @@
 <h3 align="center">Graduando em IA e Ciência de Dados • Entusiasta de Machine Learning e Visão Computacional</h3>
 
 ### 🧠 Sobre Mim
-Sou graduando em **Ciência de Dados e Inteligência Artificial** (Bacharelado - Presencial) e também curso duas formações tecnológicas EaD: **Inteligência Artificial** e **Análise de Dados**.  
-Possuo experiência em projetos com foco em **Python**, **Data Science**, **Machine Learning**, **Deep Learning**, **Visão Computacional** e **NLP**.
 
 📎 [Portfólio](https://lucasdnoronha.github.io/site-pessoal/) | ✍️ [Blog no Medium](https://medium.com/@lucasdiasnoronha1)
 
