@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Mundo</h1>
 
 ### 🧠 Blog
- ✍️ [Blog no Medium](https://medium.com/@lucasdiasnoronha1)
+ ✍️ [Medium](https://medium.com/@lucasdiasnoronha1)
 
 ---
 
