@@ -1,5 +1,4 @@
 <h1 align="center">Olá, Mundo</h1>
-<h3 align="center">Graduando em IA e Ciência de Dados • Entusiasta de Machine Learning e Visão Computacional</h3>
 
 ### 🧠 Sobre Mim
 
