@@ -1,8 +1,7 @@
 <h1 align="center">Olá, Mundo</h1>
 
-### 🧠 Sobre Mim
-
-📎 [Portfólio](https://lucasdnoronha.github.io/site-pessoal/) | ✍️ [Blog no Medium](https://medium.com/@lucasdiasnoronha1)
+### 🧠 Blog
+ ✍️ [Blog no Medium](https://medium.com/@lucasdiasnoronha1)
 
 ---
 
