@@ -13,7 +13,7 @@
 
 ---
 
-### 🌐 Redes Sociais
+### 🌐 Siga-me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasdiasnoronha" target="_blank">
