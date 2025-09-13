@@ -1,7 +1,4 @@
-<h1 align="center">Olá, Mundo</h1>
-
-### 🧠 Blog
- ✍️ [Medium](https://medium.com/@lucasdiasnoronha1)
+<h1 align="center">Hello, world!</h1>
 
 ---
 
@@ -10,7 +7,7 @@
 
 ---
 
-### 📚 Últimos Artigos no Blog
+### 📚 Últimos Artigos
 - [Inteligência Artificial: Dos Primórdios até a Atualidade](https://medium.com/@lucasdiasnoronha1/inteligência-artificial-dos-primórdios-até-a-atualidade-afb6b7af8451)  
 - [A Relevância da Álgebra Linear e Estatística no Machine Learning](https://medium.com/@lucasdiasnoronha1/entendendo-a-relevância-da-álgebra-linear-e-estatística-para-o-aprendizado-de-máquina-907df28655ff)
 
