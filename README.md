@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ Stack
-[![Skills](https://skillicons.dev/icons?i=py,r, tensorflow,pytorch,sklearn,opencv,linux,bash,docker,git,githubactions,jenkins,aws,azure,anaconda,vim,,sqlite,ubuntu,vim,)](https://skillicons.dev)]
+[![Skills](https://skillicons.dev/icons?i=py,r, tensorflow,pytorch,sklearn,opencv,linux,bash,docker,git,githubactions,jenkins,aws,azure,anaconda,vim,,sqlite,ubuntu,vim,)](https://skillicons.dev)
 
 ---
 
