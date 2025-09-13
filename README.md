@@ -5,8 +5,8 @@
 
 ---
 
-### 🛠️ Stack Tecnológica
-[![Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,linux,bash,docker,git,githubactions,jenkins,aws,azure,anaconda,vim)](https://skillicons.dev)
+### 🛠️ Stack
+[![Skills](https://skillicons.dev/icons?i=py,r, tensorflow,pytorch,sklearn,opencv,linux,bash,docker,git,githubactions,jenkins,aws,azure,anaconda,vim, matplotlib,)](https://skillicons.dev)
 
 ---
 
