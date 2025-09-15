@@ -1,7 +1,5 @@
 <h1 align="center">Hello, world!</h1>
 
----
-
 ### 🛠️ Stack
 [![Skills](https://skillicons.dev/icons?i=py,c,r,tensorflow,pytorch,sklearn,opencv,bash,linux,ubuntu,vim,docker,git,githubactions,jenkins,aws,azure,anaconda,sqlite,latex&perline=7)](https://skillicons.dev)
 
