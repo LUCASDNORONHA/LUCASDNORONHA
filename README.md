@@ -1,6 +1,6 @@
 <h1 align="center">Hello, world!</h1>
 
-Bem-vindo ao meu repositório pessoal! Aqui você encontrará uma coleção dos projetos, estudos e experimentos que desenvolvi ao longo da minha trajetória acadêmica e profissional. Atualmente, estou cursando o bacharelado em Ciência de Dados e Inteligência Artificial na Universidade Cruzeiro do Sul, além de dois cursos tecnológicos EaD em Inteligência Artificial e Análise de Dados.
+Bem-vindo ao meu repositório pessoal! Aqui você encontrará uma coleção dos projetos, estudos e experimentos que desenvolvi ao longo da minha trajetória acadêmica e profissional. Atualmente, estou cursando o bacharelado em Ciência de Dados e Inteligência Artificial, além de dois cursos tecnológicos EaD em Inteligência Artificial e Análise de Dados.
 
 ### 🛠️ Stack
 [![Skills](https://skillicons.dev/icons?i=py,c,r,tensorflow,pytorch,sklearn,opencv,bash,linux,ubuntu,vim,docker,git,githubactions,jenkins,aws,azure,anaconda,sqlite,latex&perline=10)](https://skillicons.dev)
