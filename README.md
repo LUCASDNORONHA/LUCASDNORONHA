@@ -1,3 +1,5 @@
+![](assets/ia.gif)
+
 <h1 align="center">Hello, world!</h1>
 
 Bem-vindo ao meu repositório pessoal! Aqui você encontrará uma coleção dos projetos, estudos e experimentos que desenvolvi ao longo da minha trajetória acadêmica e profissional. Atualmente, estou cursando o bacharelado em Ciência de Dados e Inteligência Artificial, além de dois cursos tecnológicos EaD em Inteligência Artificial e Análise de Dados.
