@@ -1,4 +1,4 @@
-![](LUCASDNORONHA/assets/ia.gif)
+![](ia.gif)
 
 <h1 align="center">Hello, world!</h1>
 
