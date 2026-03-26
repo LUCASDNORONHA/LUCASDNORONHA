@@ -23,17 +23,9 @@
 }
 ```
 
-### 📚 Últimos Artigos (SQL Representation)
+### ```Últimos Artigos```
 
 ```sql
-CREATE TABLE articles (
-    id INTEGER PRIMARY KEY,
-    title TEXT NOT NULL,
-    url TEXT NOT NULL,
-    platform TEXT,
-    published_at DATE
-);
-
 INSERT INTO articles (id, title, url, platform) VALUES
 (
     1,
