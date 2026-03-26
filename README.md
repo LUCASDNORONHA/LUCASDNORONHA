@@ -1,13 +1,26 @@
 ![](ai.gif)
 
-## 🧠 About Me (as code)
-
-```python
-lucas = {
-    "focus": "Data Science & Artificial Intelligence",
-    "current_studies": 3,
-    "main_stack": ["Python", "Machine Learning", "Data Analysis"],
-    "philosophy": "Transform data into structured knowledge"
+## 🧠 About Me 
+```json
+{
+  "name": "Lucas Dias Noronha",
+  "role": "Data Science & AI Student",
+  "education": [
+    "B.Sc. in Data Science and Artificial Intelligence",
+    "Technologist in Artificial Intelligence",
+    "Technologist in Data Analysis"
+  ],
+  "stack": {
+    "languages": ["Python", "R", "C"],
+    "ml_dl": ["TensorFlow", "PyTorch", "Scikit-learn"],
+    "tools": ["Docker", "Git", "Linux", "Bash"],
+    "cloud": ["AWS", "Azure"]
+  },
+  "interests": [
+    "Machine Learning",
+    "Statistical Modeling",
+    "Data Engineering"
+  ]
 }
 ```
 
