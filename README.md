@@ -1,5 +1,3 @@
-<img src="ai.gif" width="70%" />
-
 ## ```About me```
 
 ```json
@@ -24,11 +22,32 @@
   ]
 }
 ```
----
+```sql
+CREATE TABLE articles (
+    id INTEGER PRIMARY KEY,
+    title TEXT NOT NULL,
+    url TEXT NOT NULL,
+    platform TEXT,
+    published_at DATE
+);
 
-### 📚 Últimos Artigos
-- [Inteligência Artificial: Dos Primórdios até a Atualidade](https://medium.com/@lucasdiasnoronha1/inteligência-artificial-dos-primórdios-até-a-atualidade-afb6b7af8451)  
-- [A Relevância da Álgebra Linear e Estatística no Machine Learning](https://medium.com/@lucasdiasnoronha1/entendendo-a-relevância-da-álgebra-linear-e-estatística-para-o-aprendizado-de-máquina-907df28655ff)
+-- Inserção dos seus artigos
+INSERT INTO articles (id, title, url, platform) VALUES
+(
+    1,
+    'Inteligência Artificial: Dos Primórdios até a Atualidade',
+    'https://medium.com/@lucasdiasnoronha1/inteligência-artificial-dos-primórdios-até-a-atualidade-afb6b7af8451',
+    'Medium'
+),
+(
+    2,
+    'A Relevância da Álgebra Linear e Estatística no Machine Learning',
+    'https://medium.com/@lucasdiasnoronha1/entendendo-a-relevância-da-álgebra-linear-e-estatística-para-o-aprendizado-de-máquina-907df28655ff',
+    'Medium'
+);
 
----
-
+-- Consulta para visualizar os artigos
+SELECT title, url
+FROM articles
+ORDER BY id DESC;
+```
