@@ -1,8 +1,15 @@
 ![](ai.gif)
 
-<h1 align="center">Hello, world!</h1>
+## 🧠 About Me (as code)
 
-Bem-vindo ao meu repositório pessoal! Aqui você encontrará uma coleção dos projetos, estudos e experimentos que desenvolvi ao longo da minha trajetória acadêmica e profissional. Atualmente, estou cursando o bacharelado em Ciência de Dados e Inteligência Artificial, além de dois cursos tecnólogo EaD em Inteligência Artificial e Análise de Dados.
+```python
+lucas = {
+    "focus": "Data Science & Artificial Intelligence",
+    "current_studies": 3,
+    "main_stack": ["Python", "Machine Learning", "Data Analysis"],
+    "philosophy": "Transform data into structured knowledge"
+}
+```
 
 ### 🛠️ Stack
 [![Skills](https://skillicons.dev/icons?i=py,c,r,tensorflow,pytorch,sklearn,opencv,bash,linux,ubuntu,vim,docker,git,githubactions,jenkins,aws,azure,anaconda,sqlite,latex&perline=10)](https://skillicons.dev)
