@@ -1,4 +1,6 @@
-![](ai.gif)
+<p align="center">
+  <img src="ai.gif" width="500" />
+</p>
 
 ## ```About me```
 
