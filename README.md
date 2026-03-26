@@ -22,6 +22,9 @@
   ]
 }
 ```
+
+### 📚 Últimos Artigos (SQL Representation)
+
 ```sql
 CREATE TABLE articles (
     id INTEGER PRIMARY KEY,
@@ -31,7 +34,6 @@ CREATE TABLE articles (
     published_at DATE
 );
 
--- Inserção dos seus artigos
 INSERT INTO articles (id, title, url, platform) VALUES
 (
     1,
@@ -46,8 +48,4 @@ INSERT INTO articles (id, title, url, platform) VALUES
     'Medium'
 );
 
--- Consulta para visualizar os artigos
-SELECT title, url
-FROM articles
-ORDER BY id DESC;
 ```
