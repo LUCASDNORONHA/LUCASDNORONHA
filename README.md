@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="ai.gif" width="500" />
-</p>
+<img src="ai.gif" width="70%" />
 
 ## ```About me```
 
