@@ -1,6 +1,6 @@
 ![](ai.gif)
 
-## 🧠 About Me 
+## ```pyhton About me```
 ```json
 {
   "name": "Lucas Dias Noronha",
