@@ -11,7 +11,7 @@
   ],
   "stack": {
     "languages": ["Python", "R", "C", "SQL"],
-    "machine_learning": ["TensorFlow", "PyTorch", "Scikit-learn"],
+    "machine_learning": ["Scikit-learn"],
     "data_visualization": ["Power BI"],
     "analytics_platforms": ["SAS Viya"],
     "dev_tools": ["Docker", "Git"],
