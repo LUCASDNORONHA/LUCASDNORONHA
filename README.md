@@ -10,10 +10,13 @@
     "Technologist in Data Analysis"
   ],
   "stack": {
-    "languages": ["Python", "R", "C"],
-    "ml_dl": ["TensorFlow", "PyTorch", "Scikit-learn"],
-    "tools": ["Docker", "Git", "Linux", "Bash"],
-    "cloud": ["AWS", "Azure"]
+    "languages": ["Python", "R", "C", "SQL"],
+    "machine_learning": ["TensorFlow", "PyTorch", "Scikit-learn"],
+    "data_visualization": ["Power BI"],
+    "analytics_platforms": ["SAS Viya"],
+    "dev_tools": ["Docker", "Git"],
+    "cloud": ["AWS", "Azure"],
+    "operating_systems": ["Linux"]
   },
   "interests": [
     "Machine Learning",
