@@ -1,5 +1,5 @@
 ## ```Sobre mim```
-```python
+```
 Sou uma pessoa que gosta de explorar o universo de dados e trabalhar com informação
 para compreender problemas, encontrar padrões e construir análises que façam sentido.
 
