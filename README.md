@@ -1,27 +1,8 @@
-## ```About me```
+## ```Sobre mim```
 
-```json
-{
-  "name": "Lucas Dias Noronha",
-  "role": "Data Science & AI Student",
-  "education": [
-    "B.Sc. in Data Science and Artificial Intelligence",
-    "Technologist in Artificial Intelligence",
-    "Technologist in Data Analysis"
-  ],
-  "stack": {
-    "languages": ["Python", "R", "C", "SQL"],
-    "machine_learning": ["Scikit-learn"],
-    "data_visualization": ["Power BI"],
-    "analytics_platforms": ["SAS Viya"],
-    "dev_tools": ["Docker", "Git"],
-    "cloud": ["AWS", "Azure"],
-    "operating_systems": ["Linux"]
-  },
-  "interests": [
-    "Machine Learning",
-    "Statistical Modeling",
-    "Data Engineering"
-  ]
-}
-```
+  Sou uma pessoa que gosta de explorar o universo de dados e trabalhar com informação para compreender problemas, encontrar padrões e construir análises que façam sentido.
+
+  Atualmente, venho desenvolvendo minha experiência principalmente em análise de dados. A ciência de dados é uma meta para o médio prazo, especialmente pela possibilidade de combinar análise, estatística e aprendizado de máquina. Também
+  tenho interesse e curiosidade pelo campo da inteligência artificial.
+
+  Se quiser conhecer melhor meu trabalho, visite meu [portfólio](https://lucasdnoronha.github.io/portfolio/).
